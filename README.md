@@ -13,7 +13,7 @@ The project consists of a Windows Form app programmed in C# that reads CSV files
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
